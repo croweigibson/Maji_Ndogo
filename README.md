@@ -22,9 +22,11 @@ You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo
 
 ### What is the total population in Maji Ndogo?
 ![](total_pop.png)
+
 ![](pop_figure.png)
 
 ### How many water sources are available?
 ![](type_of_water_source.png)
+
 ![](water_source_types.png)
 
