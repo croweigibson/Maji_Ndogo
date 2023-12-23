@@ -19,4 +19,9 @@ The model is a star schema consisting of both dimension and facts tables.
 
 ## Data Analysis
 You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo/blob/main/Maji_Ndogo_Project.sql)
+
 ### Total Population
+![](total_pop.png)
+
+### 
+
