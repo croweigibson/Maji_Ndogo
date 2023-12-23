@@ -2,6 +2,7 @@
 
 ## Introduction
 The project focuses on one of the SDG, access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
+![](intro.jpeg)
 
 ## Description
 This database contains the records of a water survey for the Integrated Project.
