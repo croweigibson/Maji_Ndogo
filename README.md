@@ -1,7 +1,7 @@
 # Maji Ndogo Water Access Analysis
 
 ## Introduction
-The project focuses on one of the SDG, access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
+The project focuses on one of the SDGs, access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
 ![](intro.jpeg)
 
 ## Description
@@ -18,5 +18,5 @@ The model is a star schema consisting of both dimension and facts tables.
 ![](model.png)
 
 ## Data Analysis
-You can get the full SQL file [here][]
+You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo/blob/main/Maji_Ndogo_Project.sql)
 ### Total Population
