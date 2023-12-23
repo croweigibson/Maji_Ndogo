@@ -1,8 +1,13 @@
 USE md_water_services;
+
+-- Total Population in Maji Ndogo
+SELECT
+	Sum(number_of_people_served) as total_pop
+FROM water_source;
+
 -- Identifying the types of water sources
 SELECT  Distinct type_of_water_source as water_source_type
 FROM water_source;
-/* Our query shows that there are five distinct types of water sources in maji ndogo */
 
 -- Identifying the queue times
 SELECT *
@@ -10,19 +15,24 @@ FROM visits
 ORDER BY time_in_queue desc
 LIMIT 10;
 
--- checking water sources with longest queue times
+-- location with longest queue time
 SELECT
-  v.location_id,
-  v.source_id,
-  v.visit_count,
-  v.time_in_queue,
-  ws.type_of_water_source,
-  ws.number_of_people_served
-FROM visits AS v
-INNER JOIN water_source AS ws
-ON v.source_id = ws.source_id
-ORDER BY v.time_in_queue DESC
-LIMIT 10;
+v.location_id,
+location_type,
+province_name,
+town_name,
+v.source_id,
+type_of_water_source,
+number_of_people_served,
+time_in_queue
+FROM visits as v
+JOIN water_source as ws
+on v.source_id = ws.source_id
+JOIN location as l
+on v.location_id = l.location_id
+WHERE time_in_queue > 500
+ORDER BY time_in_queue desc
+Limit 10;
 
 -- assessing the quality of water sources
 SELECT *

@@ -30,6 +30,13 @@ Query                        |  Result
 :---------------------------:|:-------------------------:
 ![](type_of_water_source.png)|![](water_source_types.png)
 
+### What is the longest queue time?
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](queue_times.png)|![](result_queue_times.png)
 
-
+### Which locations have the longest queue times?
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](queue.png)|![](location_queue_times.png)
 
