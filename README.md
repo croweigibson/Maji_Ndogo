@@ -21,7 +21,7 @@ The model is a star schema consisting of both dimension and facts tables.
 You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo/blob/main/Maji_Ndogo_Project.sql)
 
 ### What is the total population in Maji Ndogo?
-![][population.png]
+![](population.png)
 
 ![](pop_figure.png)
 
