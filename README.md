@@ -30,6 +30,11 @@ Query                        |  Result
 :---------------------------:|:-------------------------:
 ![](type_of_water_source.png)|![](water_source_types.png)
 
+### Average total queue time
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](query8.png)|![](result8.png)
+
 ### What is the longest queue time?
 Query                        |  Result
 :---------------------------:|:-------------------------:
@@ -40,3 +45,17 @@ Query                        |  Result
 :---------------------------:|:-------------------------:
 ![](queue.png)|![](location_queue_times.png)
 
+## What is the water source percentage share?
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](water_source_location_query.png)|![](water_source_by_location_type.png)
+
+### Number of sources according to type
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](query6.png)|![](result6.png)
+
+### Total number of people served per source
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](query7.png)|![](result7.png)
