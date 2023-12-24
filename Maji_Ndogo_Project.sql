@@ -38,7 +38,8 @@ Limit 10;
 SELECT *
 FROM water_quality
 WHERE visit_count = 2
-AND subjective_quality_score = 10;
+AND subjective_quality_score = 10
+LIMIT 5;
 
 -- investigating pollution issues
 SELECT *
@@ -111,7 +112,7 @@ GROUP BY location_type;
 
 -- number of sources according to type
 SELECT
-    type_of_water_source,
+    type_of_water_source as tws,
     COUNT(type_of_water_source) as number_of_sources
 FROM water_source
 GROUP BY type_of_water_source;
