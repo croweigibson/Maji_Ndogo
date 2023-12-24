@@ -112,7 +112,7 @@ GROUP BY location_type;
 
 -- number of sources according to type
 SELECT
-    type_of_water_source as tws,
+    type_of_water_source,
     COUNT(type_of_water_source) as number_of_sources
 FROM water_source
 GROUP BY type_of_water_source;
