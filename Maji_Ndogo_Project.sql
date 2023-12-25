@@ -368,7 +368,8 @@ ROUND(tap_in_home_broken / (tap_in_home_broken + tap_in_home) *
 100,0) AS Pct_broken_taps
 FROM
 town_aggregated_water_access
-ORDER BY Pct_broken_taps desc;
+ORDER BY Pct_broken_taps desc
+LIMIT 10;
   
   -- Create Progress Report Table
   CREATE TABLE Project_progress (
