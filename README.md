@@ -61,6 +61,11 @@ Query                        |  Result
 :---------------------------:|:-------------------------:
 ![](query6.png)|![](result6.png)
 
+### What are the pollution status of the wells?
+Query                        |  Result
+:---------------------------:|:-------------------------:
+![](query_12.png)|![](result_12.png)
+
 ### Total number of people served per source
 Query                        |  Result
 :---------------------------:|:-------------------------:
