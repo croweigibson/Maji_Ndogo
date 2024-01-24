@@ -101,7 +101,7 @@ pumps, and reservoirs.
 
 ## Recommendations 
 1. Resources should be focused on improving the water sources that affect the most people.
-- - Most people will benefit if we improve the shared taps first.
+- - Most people will benefit if the shared taps are improved first.
 2. Wells are a good source of water, but many are contaminated. Fixing this will benefit a lot of people.
 3. Fixing existing infrastructure will help many people. If they have running water again, they won't have to queue, thereby shorting queue times for others. This has the added benefit of solving two problems at once
 4. Installing taps in homes will stretch resources too thin, so for now if the queue times are low, the source can be ignored.
