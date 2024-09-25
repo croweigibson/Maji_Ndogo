@@ -135,10 +135,7 @@ You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo
 2. If communities are using wells, install filters to purify the water. For chemically polluted wells, install reverse osmosis (RO) filters, and for wells with biological contamination, we can install UV filters that kill microorganisms - but we should install RO filters too. In
 the long term, we must figure out why these sources are polluted.
 
-3. For shared taps, in the short term, we can send additional water tankers to the busiest taps on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed.
-
-According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min. Towns like Bello, Abidjan and Zuri have a lot of people using shared taps, so we will send out teams to those
-towns first.
+3. For shared taps, in the short term, we can send additional water tankers to the busiest taps on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed. According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min. Towns like Bello, Abidjan and Zuri have a lot of people using shared taps, so we will send out teams to those towns first.
 
 4. Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution, installing taps in homes, is resource-intensive and better suited as a long-term goal.
 
