@@ -5,17 +5,23 @@ The project focuses on one of the SDGs: access to water. The project aims to res
 The survey also aims to identify the water sources people use and determine both the total and average number of users for each source.
 Additionally, it examined the duration citizens typically spend in queues to access water
 
+
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5o890y4g2hazubyfvm5h.jpeg" alt="Fig 1: AI-Generated Image of the fictional Maji_Ndogo Community" width="100%" />
+
 
 ## Description
 This database contains the records of a water survey for the Integrated Project.
 
 ## Data Source
+
 The [database](Md_water_services_data.xlsx) used includes more than 60,000 unique records and 43 columns.
 
 ## Modelling
+
 The model is a star schema consisting of both dimension and facts tables.
-![](model.png)
+
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lxy0unh7dnk56ve17uj.png" alt="Fig 2: Model Schema" width="100%" />
 
 ## Data Cleaning
 Some of the tasks I performed in the initial phase include:
@@ -25,14 +31,13 @@ Some of the tasks I performed in the initial phase include:
 You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo/blob/main/Maji_Ndogo_Project.sql)
 
 ### What is the total population in Maji Ndogo?
-Query                    |  Result
-:-----------------------:|:-------------------------:
-![](population.png)|![](pop_figure.png)
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lxy0unh7dnk56ve17uj.png" alt="Fig 3: Total Population Figure" width="100%" />
 
 ### How many water sources are available?
-Query                        |  Result
-:---------------------------:|:-------------------------:
-![](type_of_water_source.png)|![](water_source_types.png)
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n61pw9u6mbv9qvmhts7z.png" alt="Fig 4: Types of Water Sources Available" width="100%" />
+
 
 ### Average total queue time
 Query                        |  Result
