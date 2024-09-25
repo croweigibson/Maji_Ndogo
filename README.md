@@ -118,7 +118,7 @@ You can get the full SQL file [here](https://github.com/Crowei-Gibson/Maji_Ndogo
 ## Recommendations 
 1. Resources should be focused on improving the water sources that affect the most people.
 
-- - Most people will benefit if the shared taps are improved first.
+- Most people will benefit if the shared taps are improved first.
 
 2. Wells are a good source of water, but many are contaminated. Fixing this will benefit a lot of people.
 
