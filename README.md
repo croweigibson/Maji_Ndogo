@@ -4,7 +4,8 @@
 The project focuses on one of the SDGs: access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
 The survey also aims to identify the water sources people use and determine both the total and average number of users for each source.
 Additionally, it examined the duration citizens typically spend in queues to access water
-![](intro.jpeg)
+
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5o890y4g2hazubyfvm5h.jpeg" alt="Fig 1: AI-Generated Image of the fictional Maji_Ndogo Community" width="100%" />
 
 ## Description
 This database contains the records of a water survey for the Integrated Project.

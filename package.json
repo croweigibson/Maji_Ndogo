@@ -1,0 +1,25 @@
+{
+  "name": "maji_ndogo",
+  "version": "1.0.0",
+  "description": " A small-scale water management project using modern tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/croweigibson/Maji_Ndogo.git"
+  },
+  "keywords": [
+    "water",
+    "management",
+    "sustainability",
+    "environment"
+  ],
+  "author": "Crowei Gibsom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/croweigibson/Maji_Ndogo/issues"
+  },
+  "homepage": "https://github.com/croweigibson/Maji_Ndogo#readme"
+}
