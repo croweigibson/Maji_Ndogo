@@ -2,18 +2,23 @@
 
 ## Project Background
 
-The project focuses on one of the SDGs: access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
+The Maji Ndogo project focuses on one of the United Nations Sustainable Development Goals: access to clean water. In this initiative, I analyzed a dataset consisting of real-world data and AI-generated data to evaluate the current state of water access in Maji Ndogo, a nation experiencing a severe water crisis. My analysis aimed to identify the number of households with access to basic water services, the condition of existing water infrastructures, and areas requiring new installations.
 
-The survey also aims to identify the water sources people use and determine both the total and average number of users for each source.
-Additionally, it examined the duration citizens typically spend in queues to access water
+I utilized SQL, dashboards, conditional formatting, and aggregation functions to clean, analyze, and summarize the insights below, which were presented to the stakeholders to guide restoration efforts.
 
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5o890y4g2hazubyfvm5h.jpeg" alt="Fig 1: AI-Generated Image of the fictional Maji_Ndogo Community" width="100%" />
 
 
-## Description
+## Data Structures & Intitial Checks
 
-This database contains the records of a water survey for the Integrated Project.
+The project's main data structure as seen below consists of seven tables namely: employee, location, water_quality, visits, well_pollution, water_source, and global_water_access.
+
+Here is the entity relationship diagram:
+
+![Maji_Ndogo_ERD](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5sf22q64v2wsk06w226.png)
+
+You can view the data in greater detail [here](https://github.com/croweigibson/Maji_Ndogo/tree/main/excel)
 
 ## Data Source
 
