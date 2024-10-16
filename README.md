@@ -1,6 +1,6 @@
 # Maji Ndogo Water Access Analysis
 
-## Introduction
+## Project Background
 
 The project focuses on one of the SDGs: access to water. The project aims to restore access to basic water services in a nation struggling with a water crisis. 
 
