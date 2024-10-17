@@ -28,11 +28,15 @@ Insights and recommendations are provided in the following key areas:
 
 **Population Density**: A look at the population count of Maji Ndogo and the number of people affected by lack of water access. 
 
-**Queue Times Analysis**: 
-**Water Source Analysis**: 
-**Cost Analysis**:
-**Well Status**:
-**Crime Gender Disparity**:
+**Water Source Analysis**: Identifying the ways the citizens get water.
+
+**Water Source Status**: An assessment of the water sources in the area, this will help identify the extent of damage, and what solutions to be implemenented.
+
+**Crime and Gender Disparity Analysis**: An analysis of crime rate in the different provinces and how it affects the different genders. 
+
+**Cost Analysis**: An assessment of the cost of carrying out the entire repair, renovation and reinstallation process. 
+
+An interactive dashbord can be downloaded 
 
 ## Data Cleaning
 
