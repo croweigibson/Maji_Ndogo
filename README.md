@@ -20,16 +20,18 @@ Here is the entity relationship diagram:
 
 You can view the data in greater detail [here](https://github.com/croweigibson/Maji_Ndogo/tree/main/excel)
 
-## Data Source
+## Executive Summary
 
-The [database](Md_water_services_data.xlsx) used includes more than 60,000 unique records and 43 columns.
+### Overview of Findings
 
-## Modelling
+Insights and recommendations are provided in the following key areas:
 
-The model is a star schema consisting of both dimension and facts tables.
-
-
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lxy0unh7dnk56ve17uj.png" alt="Fig 2: Model Schema" width="100%" />
+**Population Density**: A look at the population count of Maji Ndogo and the number of people affected by lack of water access. 
+**Queue Times Analysis**: 
+**Water Source Analysis**: 
+**Cost Analysis**:
+**Well Status**:
+**Crime Gender Disparity**:
 
 ## Data Cleaning
 
