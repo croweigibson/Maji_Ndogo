@@ -27,6 +27,7 @@ You can view the data in greater detail [here](https://github.com/croweigibson/M
 Insights and recommendations are provided in the following key areas:
 
 **Population Density**: A look at the population count of Maji Ndogo and the number of people affected by lack of water access. 
+
 **Queue Times Analysis**: 
 **Water Source Analysis**: 
 **Cost Analysis**:
